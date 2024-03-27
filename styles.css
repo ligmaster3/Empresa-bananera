@@ -23,14 +23,15 @@ body {
 }
 .conteiner-lg img {
   height: 200px;
-  width: 200px;
-}
-section {
-  padding: 15px;
+  width: 300px;
 }
 .conteiner-lg p {
+  display: flex;
   margin: auto;
   padding: 12px;
+}
+.img-top {
+  border-right: solid 10px rgba(80, 74, 26, 0.323);
 }
 .sub-conteiner p {
   max-width: 100%;
@@ -46,11 +47,19 @@ section {
   text-align: center;
   padding: 50px 0;
 }
-
 .card-ubi-text {
   display: block;
 }
-
+@media (max-width: 1040px) {
+  .conteiner-lg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .conteiner-lg img {
+    margin: auto;
+  }
+}
 
 /* Footer*/
 footer {
@@ -142,8 +151,6 @@ footer {
   );
 }
 
-
-
 .fa-github:hover {
   background: linear-gradient(
     45deg,
@@ -161,6 +168,3 @@ footer {
     font-size: 3vh;
   }
 }
-
-
-
