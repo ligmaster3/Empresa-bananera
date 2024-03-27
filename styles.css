@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -20,8 +20,17 @@ body {
   margin: 2px 17px;
 }
 .conteiner-lg {
+  color: white;
   display: flex;
-  background-color: #3582c1;
+  background: linear-gradient(
+    45deg,
+    #3248b8,
+    #55518c,
+    #3e2baa,
+    #256598,
+    #30cce1,
+    #4f1ffd
+  );
 }
 .conteiner-lg img {
   height: 200px;
@@ -33,13 +42,15 @@ body {
   padding: 12px;
 }
 .img-top {
-  border-right: solid 10px rgba(80, 74, 26, 0.323);
+  border-bottom-right-radius:40px ;
+  box-shadow: solid 5px rgb(0, 0, 0);
 }
 .sub-conteiner p {
   max-width: 100%;
 }
 .sub-conteiner section {
-  padding: 20px;
+  background-color: whitesmoke;
+  padding: 30px;
   margin-bottom: 20px;
 }
 .ubicacion-conteiner {
