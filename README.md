@@ -2,7 +2,7 @@
 
 [INTRODUCCIÓN](https://youtu.be/OuJerKzV5T0)
 
-1. [Bases de datos SQL](https://youtu.be/OuJerKzV5T0?t=234)
+1. [Abdiel Montezuma]
 2. [Sistema de gestión de base de datos](https://youtu.be/OuJerKzV5T0?t=1011)
 3. [Fundamentos de SQL y bases de datos](https://youtu.be/OuJerKzV5T0?t=1347)
 4. [Configuración e instalación](https://youtu.be/OuJerKzV5T0?t=2753)
