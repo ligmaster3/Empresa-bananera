@@ -125,12 +125,18 @@ footer {
 }
 
 .fa-facebook:hover {
-  background-color: #3b5999;
+  background: linear-gradient(
+    45deg,
+    #405de6,
+    #463cd2,
+    #4c3ab4,
+    #3582c1,
+    #7130e1,
+    #4f1ffd
+  );
 }
 
-.fa-youtube:hover {
-  background-color: red;
-}
+
 
 .fa-github:hover {
   background: linear-gradient(
