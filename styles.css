@@ -50,6 +50,7 @@ body {
 .card-ubi-text {
   display: block;
 }
+/* RESPONSIVE DEL INDEX */
 @media (max-width: 1040px) {
   .conteiner-lg {
     display: flex;
@@ -58,6 +59,9 @@ body {
   }
   .conteiner-lg img {
     margin: auto;
+  }
+  .img-top {
+    border: none;
   }
 }
 
