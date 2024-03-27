@@ -25,11 +25,14 @@ body {
   height: 200px;
   width: 200px;
 }
+section {
+  padding: 15px;
+}
 .conteiner-lg p {
   margin: auto;
   padding: 12px;
 }
-.sub-conteiner {
+.sub-conteiner p {
   max-width: 100%;
 }
 .sub-conteiner section {
