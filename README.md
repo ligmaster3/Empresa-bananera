@@ -1,6 +1,5 @@
 ## INTEGRANTES Y CONTACTO
 
-[INTRODUCCIÓN](https://youtu.be/OuJerKzV5T0)
 
 1. [Abdiel Montezuma]()
 2. [Sistema de gestión de base de datos](https://youtu.be/OuJerKzV5T0?t=1011)
