@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.logo {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  line-height: 75px;
+  margin: 2px 17px;
+}
+.conteiner-lg {
+display: flex;
+}
+.conteiner-lg img {
+    height: 200px;
+    width: 200px;
+}
+.sub-conteiner {
+max-width: 100%;
+}
+  /* Footer*/
+footer {
+    max-width: 100%;
+    background: #10182f;
+    border-radius: 6px;
+    color: #ffff;
+    text-align: center;
+  }
+  
+  
+  .container-footer {
+    padding: 10px 20px 20px 10px;
+  }
+  
+  .container-social {
+    position: relative;
+    display: flex;
+  }
+  
+  .social-icon {
+    position: relative;
+    margin: 0 10px;
+    display: inline-block;
+  }
+  
+  .social-icon span {
+    position: absolute;
+    top: 44%;
+    left: 6%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: 0.2s;
+  }
+  
+  .social-icon:hover span {
+    transform: translate(-10%, -135%) scale(1);
+  }
+  
+  .text-description {
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  .social {
+    color: #ffff;
+    cursor: pointer;
+    font-size: 3vh;
+    margin: 30px 10px 15px 10px;
+    padding: 10px;
+  }
+  
+  .social:hover {
+    backdrop-filter: blur(20px);
+    background: transparent;
+    background-color: rgba(111, 105, 105, 0.649);
+    border: 1px solid rgba(255, 255, 255, 0.215);
+    border-radius: 30px;
+    box-shadow: 0 0 30px rgb(0, 0, 0, 0.5);
+    justify-content: center;
+    position: relative;
+  }
+  
+  .fa-instagram:hover {
+    background-color: #e1306c;
+  }
+  
+  .fa-twitter:hover {
+    background-color: #46c1f6;
+  }
+  
+  .fa-facebook:hover {
+    background-color: #3b5999;
+  }
+  
+  .fa-youtube:hover {
+    background-color: red;
+  }
+  
+  .fa-github:hover {
+    background-color: #333;
+  }
+  
+  @media (max-width: 1040px) {
+    .social {
+      font-size: 3vh;
+    }
+  }
+  
+  /*css sucursales*/
+  
+  .ubicacion-conteiner {
+    max-width: 100%;
+    position: relative;
+    width: auto;
+    padding: 50px 0;
+  }
+  
+  .card-ubi-text {
+    display: block;
+  }
