@@ -1,4 +1,4 @@
-## Lecciones y código
+## INTEGRANTES Y CONTACTO
 
 [INTRODUCCIÓN](https://youtu.be/OuJerKzV5T0)
 
