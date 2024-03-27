@@ -19,12 +19,15 @@ body {
 }
 .conteiner-lg {
   display: flex;
+  background-color: #3582c1;
 }
 .conteiner-lg img {
   height: 200px;
   width: 200px;
 }
 .conteiner-lg p {
+  margin: auto;
+  padding: 12px;
 }
 .sub-conteiner {
   max-width: 100%;
