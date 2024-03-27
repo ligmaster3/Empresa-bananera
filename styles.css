@@ -24,8 +24,14 @@ body {
   height: 200px;
   width: 200px;
 }
+.conteiner-lg p {
+}
 .sub-conteiner {
   max-width: 100%;
+}
+.sub-conteiner section {
+  padding: 20px;
+  margin-bottom: 20px;
 }
 .ubicacion-conteiner {
   max-width: 100%;
@@ -103,7 +109,15 @@ footer {
 }
 
 .fa-instagram:hover {
-  background-color: #e1306c;
+  background: linear-gradient(
+    45deg,
+    #405de6,
+    #5b51db,
+    #b33ab4,
+    #c135b4,
+    #e1306c,
+    #fd1f1f
+  );
 }
 
 .fa-twitter:hover {
@@ -119,7 +133,15 @@ footer {
 }
 
 .fa-github:hover {
-  background-color: #333;
+  background: linear-gradient(
+    45deg,
+    #2a2a2b,
+    #151516,
+    #312f31,
+    #2a292a,
+    #181717,
+    #1b1919
+  );
 }
 
 @media (max-width: 1040px) {
