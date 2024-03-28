@@ -20,4 +20,4 @@
 7. Natanael Quiroz natanael.quiroz@unachi.ac.pa
 8. Imanol Aparico imanol.aparicio@unachi.ac.pa
    
-<a href=""></a><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email">
+<a href=""></a><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email" style="width:100px;">
