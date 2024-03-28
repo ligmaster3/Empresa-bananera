@@ -1,3 +1,4 @@
+Creando páginas web responsiva con IA, para un Turismo Responsable en Barú
 ## INTEGRANTES Y CONTACTO 
 
  <p  style="display: inline-block;">
