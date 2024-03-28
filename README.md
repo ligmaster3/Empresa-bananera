@@ -1,9 +1,9 @@
 ## INTEGRANTES Y CONTACTO <a href=""></a><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email">
-<p align="center ">
- <a href=""></a><img src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="html">
-  <a href=""></a><img src="https://www.cdnlogo.com/logos/c/18/css.svg" alt="css">
-   <a href=""></a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/640px-ChatGPT_logo.svg.png" alt="ChaptGtp">
-</p>
+ <p  style="display: inline-block;">
+        <a href=""></a><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" alt="html" style="width: 100px;">
+         <a href=""></a><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="css" style="width: 100px;">
+          <a href=""></a><img src="https://digitalscholar.in/wp-content/uploads/2023/03/chatgpt-logo.png" alt="ChaptGtp" style="width: 100px;">
+       </p>
 ## Links
 
 1. Abdiel Montezuma abdiel.montezuma2@unachi.ac.pa
