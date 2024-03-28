@@ -5,7 +5,7 @@
      <a href=""></a><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" alt="html" style="width: 100px;" height: 40px;>
      <a href=""></a><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="css" style="width: 100px;" height: 40px;>
      <a href=""></a><img src="https://gitconnected.com/public/images/tutorials/svg/javascript.svg" alt="javascript" style="width: 100px;" height: 40px;>
-     <a href=""></a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Boostrap" style="width: 100px;" height: 40px;>
+     <a href=""></a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Boostrap" style="width: 100px;">
      <a href=""></a><img src="https://digitalscholar.in/wp-content/uploads/2023/03/chatgpt-logo.png" alt="ChaptGtp" style="width: 100px;" height: 40px;>
 </p>
        
