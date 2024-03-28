@@ -1,4 +1,4 @@
-## INTEGRANTES Y CONTACTO <a href=""></a><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email">
+## INTEGRANTES Y CONTACTO 
 
  <p  style="display: inline-block;">
         <a href=""></a><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" alt="html" style="width: 100px;">
@@ -16,4 +16,4 @@
 6. Guillermo Gonzales guillermogomzalez88@gmail.com
 7. Natanael Quiroz natanael.quiroz@unachi.ac.pa
 8. Imanol Aparico imanol.aparicio@unachi.ac.pa
-
+<a href=""></a><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email">
