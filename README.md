@@ -1,8 +1,8 @@
 ## INTEGRANTES Y CONTACTO
 
 
-1. [Abdiel Montezuma]()
-2. [Sistema de gestión de base de datos](https://youtu.be/OuJerKzV5T0?t=1011)
+1. [Abdiel Montezuma](abdiel.montezuma2@unachi.ac.pa)
+2. [Deidacio Pineda](didacio.pineda@unachi.ac.pa)
 3. [Fundamentos de SQL y bases de datos](https://youtu.be/OuJerKzV5T0?t=1347)
 4. [Configuración e instalación](https://youtu.be/OuJerKzV5T0?t=2753)
 5. [Primeros pasos](https://youtu.be/OuJerKzV5T0?t=3282)
