@@ -6,7 +6,7 @@
 3. Enier Arauz enier.arauz@unachi.ac.pa
 4. Eilina Hernandez eilian.hernandez@unachi.ac.pa
 5. Erick Gonzales erick.gonzalez5@unachi.ac.pa
-6. [Conexión y cliente SQL](https://youtu.be/OuJerKzV5T0?t=3555)
-7. [Inicialización de datos](https://youtu.be/OuJerKzV5T0?t=4381)
-8. [Consulta de datos: `SELECT`](https://youtu.be/OuJerKzV5T0?t=5618) ➔ [[Código]](./01_Reading/01_select.sql)
-9. [Modificadores: Parte 1](https://youtu.be/OuJerKzV5T0?t=6074)
+6. Guillermo Gonzales guillermogomzalez88@gmail.com
+7. Natanael Quiroz natanael.quiroz@unachi.ac.pa
+8. Imanol Aparico imanol.aparicio@unachi.ac.pa
+9. 
