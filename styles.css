@@ -118,6 +118,7 @@ body {
   }
   .conteiner-sm {
     display: block;
+    width: 20rem;
   }
   .conteiner-sm img {
     width: 280px;
