@@ -46,13 +46,17 @@ body {
   border-bottom-right-radius: 40px;
   box-shadow: solid 5px rgb(0, 0, 0);
 }
+.sub-conteiner {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
 .sub-conteiner p {
   line-height: 5vh;
   max-width: 100%;
 }
 .sub-conteiner section {
   background-color: whitesmoke;
-  padding: 4rem;
+  padding: 3rem;
   justify-content: center;
   align-items: center;
   margin-bottom: 24px;
@@ -84,7 +88,10 @@ body {
     #29f800
   );
 }
-
+.carousel {
+  width: 137vh;
+  margin-left: 4rem;
+}
 .ubicacion-conteiner {
   max-width: 100%;
   position: relative;
@@ -116,6 +123,10 @@ body {
   .img-top {
     border: none;
   }
+  .sub-conteiner {
+    margin: 0;
+    padding: 0;
+  }
   .conteiner-sm {
     display: block;
     width: 20rem;
@@ -131,6 +142,10 @@ body {
   .card-ubi iframe {
     width: 300px;
     height: 150px;
+  }
+  .carousel {
+    width: auto;
+    margin: 0;
   }
 }
 .fa-play {
