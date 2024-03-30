@@ -28,7 +28,7 @@ body {
     #55518c,
     #3e2baa,
     #256598,
-    #30cce1,
+    #0f363c,
     #4f1ffd
   );
 }
@@ -39,6 +39,7 @@ body {
 .conteiner-lg p {
   display: flex;
   margin: auto;
+  font-weight: bold;
   padding: 12px;
 }
 .img-top {
@@ -46,12 +47,15 @@ body {
   box-shadow: solid 5px rgb(0, 0, 0);
 }
 .sub-conteiner p {
+  line-height: 5vh;
   max-width: 100%;
 }
 .sub-conteiner section {
   background-color: whitesmoke;
-  padding: 30px;
-  margin-bottom: 20px;
+  padding: 4rem;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
 }
 .conteiner-sm {
   display: flex;
@@ -80,6 +84,7 @@ body {
     #29f800
   );
 }
+
 .ubicacion-conteiner {
   max-width: 100%;
   position: relative;
